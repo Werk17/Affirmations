@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">Affirmations</string>
+    <string name="affirm1">I am strong.</string>
+    <string name="affirm2">I believe in myself.</string>
+    <string name="affirm3">Each day is a new opportunity to grow and be a better version of myself.</string>
+    <string name="affirm4">Every challenge in my life is an opportunity to learn from.</string>
+    <string name="affirm5">I have so much to be grateful for.</string>
+     <string name="affirm6">Good things are always coming into my life.</string>
+    <string name="affirm7">New opportunities await me at every turn.</string>
+    <string name="affirm8">I have the courage to follow my heart.</string>
+    <string name="affirm9">Things will unfold at precisely at the right time.</string>
+    <string name="affirm10">I will be present in all the moments that this day brings.</string>
+
+
 </resources>
